@@ -4,6 +4,7 @@ Simple script to visualize a media folder
 Warning this is not an example of good code, in fact this is an example of very bad code so do what you will with that information.
 
 To run the script you need pygame
+
 	> pip install pygame
 
 Once you have pygame install put the script in the root of your media folder ie)
@@ -19,6 +20,7 @@ Once you have pygame install put the script in the root of your media folder ie)
 		>MOVIES
 
 Then just run it as :
+
 	> python ./Main.py
 
 
