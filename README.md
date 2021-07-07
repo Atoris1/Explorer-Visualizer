@@ -1,5 +1,6 @@
 # Explorer-Visualizer
 Simple script to visualize a media folder
+
 Warning this is not an example of good code, in fact this is an example of very bad code so do what you will with that information.
 
 To run the script you need pygame
